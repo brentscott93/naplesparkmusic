@@ -28,8 +28,7 @@
 Denny Scott </description>
       <content>&lt;p&gt;We offer music lessons at the store for just about every instrument and to all ages. Meet our teachers below:&lt;/p&gt;
 &lt;h2 id=&#34;denny-scott&#34;&gt;Denny Scott&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;denny.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-</content>
+&lt;img src = &#34;https://naplesparkmusic.netlify.app/img/denny.jpg&#34; style = &#34;width: 30%&#34;&gt;</content>
     </item>
     
     <item>

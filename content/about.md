@@ -1,7 +1,7 @@
 ---
-author: Denny Scott
-date: "2021-11-01"
-title: About
+title: "About"
+author: "Denny Scott"
+date: '2021-11-01'
 ---
 
 # Hi, I'm Denny

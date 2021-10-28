@@ -2,6 +2,10 @@ baseurl: https://naplesparkmusic.netlify.app/
 languageCode: en-us
 theme: hugo-theme-terminal
 paginate: 5
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   centerTheme: no
   contentTypeName: post
