@@ -2,23 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/welcome/</loc>
+    <loc>https://naplesparkmusic.netlify.app/post/welcome/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://naplesparkmusic.netlify.app/lessons/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://naplesparkmusic.netlify.app/</loc>
     <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <loc>https://naplesparkmusic.netlify.app/post/</loc>
+    <lastmod>2021-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/showcase/</loc>
-    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
+    <loc>https://naplesparkmusic.netlify.app/categories/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://naplesparkmusic.netlify.app/contact/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://naplesparkmusic.netlify.app/tags/</loc>
   </url>
 </urlset>
