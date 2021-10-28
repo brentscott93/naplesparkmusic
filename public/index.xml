@@ -13,11 +13,15 @@
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://naplesparkmusic.netlify.app/about/</guid>
-      <description>Hi, I&amp;rsquo;m Denny I am the owner and operator of Naples Park Music. I opened the store right here in the Naples Park Plaza in 1992 selling musical instruments, giving lessons, and doing repairs. 30 years later I am still excited to be continuing our success!
-Please stop on by anytime to ask questions, pick up some gear, or share some words of wisdom for the day.</description>
-      <content>&lt;h1 id=&#34;hi-im-denny&#34;&gt;Hi, I&amp;rsquo;m Denny&lt;/h1&gt;
-&lt;p&gt;I am the owner and operator of Naples Park Music. I opened the store right here in the Naples Park Plaza in 1992 selling musical instruments, giving lessons, and doing repairs. 30 years later I am still excited to be continuing our success!&lt;/p&gt;
+      <description>Hi, I&#39;m Denny   I am the owner and operator of Naples Park Music. I opened the store right here in the Naples Park Plaza in 1992 selling musical instruments, giving lessons, and doing repairs. 30 years later I am still excited to be continuing our success! Please stop on by anytime to ask questions, pick up some gear, or share some words of wisdom for the day.</description>
+      <content>&lt;div style = &#34;float: left; width: 30%&#34;&gt;
+  &lt;h1&gt; Hi, I&#39;m Denny &lt;/h1&gt;
+  &lt;img src = &#34;https://naplesparkmusic.netlify.app/img/denny-bass.img&#34; style = width: 60%; margin-top: 0px&#34;&gt;
+&lt;/div&gt;
+&lt;div style = &#34;float: left; width: 70%; padding-top: 100px&#34;&gt;
+I am the owner and operator of Naples Park Music. I opened the store right here in the Naples Park Plaza in 1992 selling musical instruments, giving lessons, and doing repairs. 30 years later I am still excited to be continuing our success!
 &lt;p&gt;Please stop on by anytime to ask questions, pick up some gear, or share some words of wisdom for the day.&lt;/p&gt;
+&lt;/div&gt;
 </content>
     </item>
     
@@ -39,10 +43,15 @@ Please stop on by anytime to ask questions, pick up some gear, or share some wor
       
       <guid>https://naplesparkmusic.netlify.app/lessons/</guid>
       <description>We offer music lessons at the store for just about every instrument and to all ages. Meet our teachers below:
-Denny Scott </description>
+ Denny Scott   In addition to running the retail store, Denny reserves time throughout the week to give private lessons to students of all ages. Bring any instrument and he will teach you. He currently has guitar, bass, drum, saxophone, and flute students.  </description>
       <content>&lt;p&gt;We offer music lessons at the store for just about every instrument and to all ages. Meet our teachers below:&lt;/p&gt;
-&lt;h2 id=&#34;denny-scott&#34;&gt;Denny Scott&lt;/h2&gt;
-&lt;img src = &#34;https://naplesparkmusic.netlify.app/img/denny.jpg&#34; style = &#34;width: 30%&#34;&gt;</content>
+&lt;div style = &#34;float: left; width: 30%&#34;&gt;
+  &lt;h2&gt; Denny Scott &lt;/h2&gt; &lt;br&gt;
+  &lt;img src = &#34;https://naplesparkmusic.netlify.app/img/denny.jpg&#34; style = &#34;width: 60%; margin-top: 0px&#34;&gt;
+&lt;/div&gt;
+&lt;div style = &#34;float: left; width: 70%; padding-top: 100px;&#34;&gt;
+ In addition to running the retail store, Denny reserves time throughout the week to give private lessons to students of all ages. Bring any instrument and he will teach you. He currently has guitar, bass, drum, saxophone, and flute students.
+ &lt;/div&gt; </content>
     </item>
     
     <item>
@@ -51,9 +60,24 @@ Denny Scott </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://naplesparkmusic.netlify.app/contact/</guid>
-      <description>Phone Number: 239-598-9954 Address: 9331 N. Tamiami Trail (Naples Park Plaza in center Breezeway) </description>
-      <content>&lt;h1 id=&#34;phone-number-239-598-9954&#34;&gt;Phone Number: 239-598-9954&lt;/h1&gt;
-&lt;h1 id=&#34;address-9331-n-tamiami-trail-naples-park-plaza-in-center-breezeway&#34;&gt;Address: 9331 N. Tamiami Trail (Naples Park Plaza in center Breezeway)&lt;/h1&gt;
+      <description> Store Hours: Monday-Saturday 11am-5pm; Closed Sundays  Address: 9331 N. Tamiami Trail Naples FL, 34108  Phone Number: 239-598-9954  Email: scotty@naplesparkmusic.com </description>
+      <content>&lt;p&gt;
+  Store Hours: &lt;br&gt;
+  Monday-Saturday 11am-5pm; Closed Sundays
+&lt;/p&gt;
+&lt;p&gt;
+  Address: &lt;br&gt;
+  9331 N. Tamiami Trail &lt;br&gt;
+  Naples FL, 34108 
+&lt;/p&gt;
+&lt;p&gt;
+  Phone Number: &lt;br&gt;
+  239-598-9954
+&lt;/p&gt;
+&lt;p&gt;
+  Email: &lt;br&gt;
+  scotty@naplesparkmusic.com
+&lt;/p&gt;
 </content>
     </item>
     
