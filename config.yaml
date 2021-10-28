@@ -1,0 +1,34 @@
+baseurl: https://example.com/
+languageCode: en-us
+theme: hugo-theme-terminal
+paginate: 5
+params:
+  centerTheme: no
+  contentTypeName: post
+  fullWidthTheme: yes
+  showMenuItems: 3
+  themeColor: blue
+languages:
+  en:
+    copyright: ''
+    keywords: ''
+    menu:
+      main:
+        - identifier: about
+          name: About
+          url: /about
+        - identifier: lessons
+          name: Lessons
+          url: /lessons
+        - identifier: contact
+          name: Contact
+          url: /contact
+    menuMore: Show more
+    params:
+      logo:
+        logoHomeLink: /
+        logoText: Naples Park Music
+    readMore: Read more
+    readOtherPosts: More Information
+    subtitle: When you think music...think Naples Park Music!
+    title: Naples Park Music
