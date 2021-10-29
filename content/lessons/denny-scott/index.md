@@ -4,7 +4,7 @@ author: Guitar, Bass, & Woodwinds
 date: '2021-10-29'
 slug: []
 categories: []
-cover: 'img/denny-small.jpg'
+cover: 'img/denny-twinkle.jpg'
 description: ''
 keywords:
   - ''

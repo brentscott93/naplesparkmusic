@@ -16,5 +16,13 @@ title: Contact Us
 </p>
 <p>
   Email: <br>
-  scotty@naplesparkmusic.com
+  <a href="mailto:denny@naplesparkmusic.rocks">denny@naplesparkmusic.rocks</a>
+</p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<p>
+  Social:<br>
+  <a href="https://www.facebook.com/naplesparkmusic" class="fa fa-facebook"></a>
+  <a href="https://www.instagram.com/naplesparkmusic92/" class="fa fa-instagram"></a>
 </p>

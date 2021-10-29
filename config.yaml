@@ -14,19 +14,22 @@ params:
   themeColor: blue
 languages:
   en:
-    copyright: ''
+    copyright: '© 2021 Naples Park Music'
     keywords: ''
     menu:
       main:
         - identifier: about
           name: About
           url: /about
-        - identifier: lessons
-          name: Lessons
-          url: /lessons
         - identifier: contact
           name: Contact
           url: /contact
+        - identifier: lessons
+          name: Lessons
+          url: /lessons
+        - identifier: listen
+          name: Listen
+          url: /listen
     menuMore: Show more
     params:
       logo:
