@@ -1,4 +1,4 @@
-baseurl: https://naplesparkmusic.netlify.app/
+baseurl: "/"
 languageCode: en-us
 theme: hugo-theme-terminal
 paginate: 5
