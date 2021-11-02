@@ -1,6 +1,6 @@
 ---
-title: Max
-author: Guitar & Violin
+title: Max Essler
+author: Violin, Bass, & Guitar
 date: '2021-10-28'
 slug: []
 categories: []
