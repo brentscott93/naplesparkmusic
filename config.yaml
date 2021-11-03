@@ -30,6 +30,9 @@ languages:
         - identifier: listen
           name: Listen
           url: /listen
+        - identifier: testimonials
+          name: Testimonials
+          url: /testimonials
     menuMore: Show more
     params:
       logo:
