@@ -2,6 +2,7 @@
 title: "Listen"
 author: "Last Updated"
 date: '2021-11-03'
+keywords: "music in Naples, FL"
 ---
 <hr>
 Denny plays in Back to Chicago Tribute Band
@@ -20,7 +21,7 @@ Throwback to 17-year-old [Keith Scott](https://naplesparkmusic.rocks/lessons/kei
 
 <hr> 
 
-High school [Keith](https://naplesparkmusic.rocks/lessons/keith-scott) & [Brent Scott](https://brentscott.us) jam some hardcore originals recorded in the NPM lesson rooms. 
+Original metal recorded by [Keith](https://naplesparkmusic.rocks/lessons/keith-scott) & [Brent Scott](https://brentscott.us) in the NPM studio 
 
 <audio controls>
    <source src="http://docs.google.com/uc?export=open&id=1yYXEAO5z2kWDg8Guqx2SsMgSoCv4Sy1p" type="audio/mp3">
