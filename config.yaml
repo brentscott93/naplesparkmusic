@@ -15,7 +15,7 @@ params:
 languages:
   en:
     copyright: '© 2021 Naples Park Music'
-    keywords: ''
+    keywords: 'guitar, lessons, naples'
     menu:
       main:
         - identifier: about
@@ -42,3 +42,4 @@ languages:
     readOtherPosts: More Information
     subtitle: When you think music...think Naples Park Music!
     title: Naples Park Music
+    Description: Guitar store in Naples, FL

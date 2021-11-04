@@ -6,6 +6,7 @@ cover: img/npm-1992.jpg
 slug: welcome
 categories: []
 tags: []
+keywords: ["music", "guitar", "drums", "naples"]
 ---
  
-Welcome to Naples Park Music! We are currently celebrating our 30 year anniversary of doing business with Southwest Florida.  
+Welcome to Naples Park Music! We are currently celebrating our 30 year anniversary of doing business and selling guitars in Naples, FL. 
