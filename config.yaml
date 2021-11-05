@@ -10,7 +10,7 @@ params:
   centerTheme: no
   contentTypeName: post
   fullWidthTheme: yes
-  showMenuItems: 3
+  showMenuItems: 4
   themeColor: blue
 languages:
   en:
@@ -24,6 +24,9 @@ languages:
         - identifier: contact
           name: Contact
           url: /contact
+        - identifier: gear
+          name: Gear
+          url: /gear
         - identifier: lessons
           name: Lessons
           url: /lessons
