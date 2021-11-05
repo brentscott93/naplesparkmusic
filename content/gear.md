@@ -43,6 +43,7 @@ These distributors carry these featured brands and more: <br>
 - Tama
 - Gretsch
 - Ludwig
+- PDP
 - Roland
 - Meinl
 - Dixon 
@@ -54,6 +55,8 @@ These distributors carry these featured brands and more: <br>
 - Vater
 - Remo
 - Evans
+- DW Hardware
+
   
   
 
