@@ -24,6 +24,6 @@ Throwback to 17-year-old [Keith Scott](https://naplesparkmusic.rocks/lessons/kei
 Original metal recorded by [Keith](https://naplesparkmusic.rocks/lessons/keith-scott) & [Brent Scott](https://brentscott.us) in the NPM studio 
 
 <audio controls>
-   <source src="http://docs.google.com/uc?export=open&id=1yYXEAO5z2kWDg8Guqx2SsMgSoCv4Sy1p" type="audio/mp3">
+   <source src="https://docs.google.com/uc?export=open&id=1yYXEAO5z2kWDg8Guqx2SsMgSoCv4Sy1p" type="audio/mp3">
    <p>Your browser does not support HTML5 audio :(</p>
 </audio> 
