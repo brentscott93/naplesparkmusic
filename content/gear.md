@@ -52,6 +52,8 @@ These distributors carry these featured brands and more: <br>
 - Promark
 - Vic Firth
 - Vater
+- Remo
+- Evans
   
   
 
