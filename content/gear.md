@@ -30,6 +30,7 @@ These distributors carry these featured brands and more: <br>
 - Alvarez 
 <br>
 <br>
+
 **Guitar Accessories:**
 - D'Addario
 - Dunlap
@@ -39,6 +40,7 @@ These distributors carry these featured brands and more: <br>
 - SIT
 <br>
 <br>
+
 **Drums:**
 - Tama
 - Gretsch
