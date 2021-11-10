@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-keywords: "music store in naples fl"
+keywords: "guitar rentals in naples fl"
 ---
 <p>
   Store Hours: <br>

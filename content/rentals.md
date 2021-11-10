@@ -1,0 +1,21 @@
+---
+title: Rentals
+keywords: "guitar rentals in naples fl"
+---
+We primarily rent acoustic guitars to the general consumer in addition to a high-end selection of professional backline equipment used by local venues to fulfill rider specifications for touring artists. [Call the store](https://naplesparkmusic.rocks/contact) or email  <a href="mailto:rentals@naplesparkmusic.rocks">rentals@naplesparkmusic.rocks</a> for details on the availability and pricing for the backline equipment. Delivery services can be arranged directly to the venue for backline rentals. 
+
+Acoustic Guitar:
+ - Fender Squier (or equivalent): \$15/day or \$70/week
+
+Guitar amps:
+- Fender Twin Reverb (2x12)
+- Fender Hot Rod Deville (4x10)
+
+ Drums:
+- 4-piece DW Performance Series (Ebony Stain)
+- Paiste 2002 cymbals (14" Hi-hat, 16" & 18" Thin Crash, 20" Ride)
+- Sabian Vault 19" Holy China
+- DW 9000 Double Bass Pedals
+- Additional assorted hardware (Gibraltar)
+
+
