@@ -36,6 +36,9 @@ languages:
         - identifier: rentals
           name: Rentals
           url: /rentals
+        - identifier: repairs
+          name: Repairs
+          url: /repairs
         - identifier: testimonials
           name: Testimonials
           url: /testimonials
