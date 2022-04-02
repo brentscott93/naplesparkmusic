@@ -9,6 +9,7 @@ Copy of photo ID and rental agreement required.
 Acoustic Guitar:
  - The Beach Beater: \$25/day or \$100/week
  - Martin Sigma (or equivalent): \$35/day or \$150/week
+ - Martin X Series or Breadlove Concertina: \$45/day or \$225/week
 
 Guitar amps:
 - Fender Twin Reverb (2x12)
