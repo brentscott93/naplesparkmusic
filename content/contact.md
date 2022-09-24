@@ -4,7 +4,9 @@ keywords: "music store in naples fl"
 ---
 <p>
   Store Hours: <br>
-  Monday-Saturday 11am-6pm; Closed Sundays
+  Monday-Friday 11am-6pm
+  Saturday 10am-4pm
+  Sunday hours starting November 2022
 </p>
 <p>
   Address: <br>
@@ -18,6 +20,7 @@ keywords: "music store in naples fl"
 <p>
   Email: <br>
   <a href="mailto:denny@naplesparkmusic.rocks">denny@naplesparkmusic.rocks</a>
+  <a href="mailto:keith@naplesparkmusic.rocks">keith@naplesparkmusic.rocks</a>
 </p>
 
 <!-- Add icon library -->
