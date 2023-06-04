@@ -6,7 +6,7 @@ keywords: "music store in naples fl"
   Store Hours: <br>
   Monday-Friday 11am-6pm <br>
   Saturday 10am-4pm <br>
-  Sunday 11am-3pm
+  Closed Sunday over summer 
 </p>
 <p>
   Address: <br>
