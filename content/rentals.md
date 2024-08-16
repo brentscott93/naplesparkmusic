@@ -2,7 +2,7 @@
 title: Rentals
 keywords: "guitar rentals in naples fl"
 ---
-We primarily rent acoustic guitars to the general consumer in addition to a high-end selection of professional backline equipment used by local venues to fulfill rider specifications for touring artists. [Call the store](https://naplesparkmusic.rocks/contact) or email  <a href="mailto:rentals@naplesparkmusic.rocks">rentals@naplesparkmusic.rocks</a> for details on the availability and pricing for the backline equipment. Delivery services can be arranged directly to the venue for backline rentals. 
+We primarily rent acoustic guitars to the general consumer in addition to a high-end selection of professional backline equipment used by local venues to fulfill rider specifications for touring artists. We also fulfill rentals for band and orchestra instruments through Music & Arts. [Click here to order a band or orchesta instrument.](https://www.musicarts.com/rentals?aid=5545) [Call the store](https://naplesparkmusic.rocks/contact) or email  <a href="mailto:rentals@naplesparkmusic.rocks">rentals@naplesparkmusic.rocks</a> for details on the availability and pricing for the backline equipment. Delivery services can be arranged directly to the venue for backline rentals. 
 
 Copy of photo ID and rental agreement required. 
 
