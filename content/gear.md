@@ -36,6 +36,7 @@ These distributors carry these featured brands and more: <br>
 - Dunlap
 - Elixer
 - Ernie Ball
+- GHS
 - Pig Hog
 - SIT
 <br>
